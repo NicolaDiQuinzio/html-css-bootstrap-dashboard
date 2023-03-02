@@ -67,7 +67,7 @@ SIDEBAR
 
 #sidebar {
   height: 100%;
-  width: 180px;
+  width: 120px;
   flex-shrink: 0;
   background-color: #051e34;
   background-image: url("../img/sidebar-bg.png");
@@ -81,4 +81,10 @@ main {
   flex-grow: 1;
   overflow-y: auto;
   height: 100%;
+}
+/*****************************************************
+TABLE
+******************************************************/
+.tableimg {
+  max-width: 25px;
 }
